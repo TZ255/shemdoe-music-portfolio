@@ -10,12 +10,12 @@ tags: ["song"]
     <div style="margin-bottom: 18px;">
         <h4>Listen to this song</h4>
         <audio controls>
-            <source src="/musics/usiniharibie.mp3" type="audio/mpeg">
+            <source src="https://shmd.b-cdn.net/Rose%20Muhando%20%E2%80%93%20Secret%20Agenda.mp3" type="audio/mpeg">
         </audio>
     </div>
     <button
         style="display: block; background-color: green; color: white; padding: 8px; border-radius: 24px; font-weight: bold; font-size: 12px; width: 75%;"
-        onclick="window.open('/musics/usiniharibie.mp3', '_self')">DOWNLOAD
+        onclick="window.open(`https://shmd.b-cdn.net/Rose%20Muhando%20%E2%80%93%20Secret%20Agenda.mp3?1`, '_self')">DOWNLOAD
     </button>
 </div>
 <hr/>
