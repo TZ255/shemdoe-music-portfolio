@@ -7,17 +7,14 @@ heroImage: "/nitampata.jpg"
 tags: ["dance"]
 ---
 
-<div style="width: 75%; margin: auto; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div
+    style="width: 95%; margin: auto; display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <div style="margin-bottom: 18px;">
         <h4>Listen to this song</h4>
-        <audio controls style="height: 70px; background-color: #d3d3d3; border-radius: 24px;">
-            <source src="https://shmd.b-cdn.net/Rose%20Muhando%20%E2%80%93%20Secret%20Agenda.mp3" type="audio/mpeg">
+        <audio controls>
+            <source src="/musics/usiniharibie.mp3" type="audio/mpeg">
         </audio>
     </div>
-    <button
-        style="display: block; background-color: green; color: white; padding: 8px; border-radius: 24px; font-weight: bold; font-size: 12px; width: 75%;"
-        onclick="window.open(`https://shmd.b-cdn.net/Rose%20Muhando%20%E2%80%93%20Secret%20Agenda.mp3?1`, '_self')">DOWNLOAD
-    </button>
 </div>
 <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
