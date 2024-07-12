@@ -1,10 +1,10 @@
 ---
-title: "MAJI MAJI by Shemdoe"
-description: "Nitampata Wapi - is a heartfelt song by Shemdoe about searching for the perfect woman after losing someone
+title: "NITASEMA by Shemdoe"
+description: "NITASEMA - is a heartfelt song by Shemdoe about searching for the perfect woman after losing someone
 special."
 pubDate: "Sep 10 2022"
-heroImage: "/nitampata.jpg"
-tags: ["dance"]
+heroImage: "/covers/cv2.jpg"
+tags: ["dance", "love", "rnb"]
 ---
 
 <div
@@ -12,7 +12,7 @@ tags: ["dance"]
     <div style="margin-bottom: 18px;">
         <h4>Listen to this song</h4>
         <audio controls>
-            <source src="/musics/usiniharibie.mp3" type="audio/mpeg">
+            <source src="/musics/Jay melody - NItasema (AUDIO).mp3" type="audio/mpeg">
         </audio>
     </div>
 </div>

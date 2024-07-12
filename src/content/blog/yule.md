@@ -2,7 +2,7 @@
 title: "Komasava by Shemdoe"
 description: "Komasava - is a heartfelt song by Shemdoe about searching for the perfect woman after losing someone special."
 pubDate: "Sep 10 2022"
-heroImage: "/nitampata.jpg"
+heroImage: "/covers/cv3.jpg"
 tags: ["song"]
 ---
 

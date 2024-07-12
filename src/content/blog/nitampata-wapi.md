@@ -2,7 +2,7 @@
 title: "Nitampata Wapi by Shemdoe"
 description: "Nitampata Wapi - is a heartfelt song by Shemdoe about searching for the perfect woman after losing someone special."
 pubDate: "Sep 10 2022"
-heroImage: "/nitampata.jpg"
+heroImage: "/covers/cv1.webp"
 tags: ["song"]
 ---
 
