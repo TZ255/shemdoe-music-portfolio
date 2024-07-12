@@ -1,10 +1,9 @@
 ---
-title: "Demo Post 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 12 2022"
-heroImage: "/post_img.webp"
-badge: "Demo badge"
-tags: ["rust","tokio"]
+title: "MAJI MAJI by Shemdoe"
+description: "Nitampata Wapi - is a heartfelt song by Shemdoe about searching for the perfect woman after losing someone special."
+pubDate: "Sep 10 2022"
+heroImage: "/nitampata.jpg"
+tags: ["dance"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
